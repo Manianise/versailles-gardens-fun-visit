@@ -6,6 +6,8 @@
 
 This work is currently in progress. You can send me a private message if you wish to participate ! Let's talk !
 
+<img src="./assets/images/bg-home.png" alt="presentation" width="540"/>
+
 ### Building the app :
 
 - I recommend for now to start this app using VS code. I will add a docker image later on.
